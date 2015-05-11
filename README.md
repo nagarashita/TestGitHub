@@ -1,2 +1,4 @@
 # TestGitHub
-Github Tutorial
+
+It is repository for Github description. Done by Ashita.
+
